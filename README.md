@@ -1,2 +1,2 @@
 # how-s-the-josh
-initialize the process
+initialize the  main process
